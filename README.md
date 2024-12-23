@@ -1,5 +1,16 @@
 # 🌟 PyVengers Assemble 🚀
 
+<p align="center">
+  <img width="150px", height="25px" src="https://img.shields.io/badge/python-3.9-blue?style=for-the-badge&logo=python&logoColor=white">
+  <img width="150px" , height="25px" src="https://img.shields.io/badge/license-MIT-yellow?style=for-the-badge&logo=opensource&logoColor=white">
+  <img width="150px" src="https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge&logo=github&logoColor=white">
+  <img width="150px" src="https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&logo=github-actions&logoColor=white">
+  <img width="150px" src="https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+
+
+
 Welcome to **PyVengers Assemble**, a Python project that simulates the creation of a superhero team! This repository allows you to manage and explore profiles of PyVengers, each with their unique attributes. Whether you want to add new PyVengers, list all members, or search for specific heroes by their superpowers, this project has you covered. 💪
 
 ---
