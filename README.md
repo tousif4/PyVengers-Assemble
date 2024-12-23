@@ -79,12 +79,19 @@ We welcome contributions to enhance the PyVengers project! Follow these steps to
 
 2. **🖍️ Create a New Branch**:
    ```bash
-   git checkout -b add-yourname
+   git checkout -b add-pyvenger-yourname
    ```
 
 3. **🎨 Make Your Changes**:
    - Add your improvements to the project.
-   - Test thoroughly.
+   - To add your own PyVenger profile, run the pyvengers/main.py script. It will open an interactive CLI menu where you can:
+          - Add a new PyVenger profile with your own data.
+          - List all current PyVengers.
+              - Example data you can enter when prompted:
+                 - Name: PyVenger Coder John
+                 - Superpower: Coding / Testing / Designing
+                 - Mission: Make PyVengers great
+    - After adding your data, commit your changes and move to the next step.    
 
 4. **📋 Commit Your Changes**:
    ```bash
@@ -94,7 +101,7 @@ We welcome contributions to enhance the PyVengers project! Follow these steps to
 
 5. **📤 Push Changes to GitHub**:
    ```bash
-   git push origin add-yourname
+   git push origin add-pyvenger-yourname
    ```
 
 6. **✅ Open a Pull Request**: Compare your branch with the main repository and create a pull request.
