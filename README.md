@@ -17,9 +17,9 @@ Welcome to **PyVengers Assemble**, a Python project that simulates the creation 
 
 ## ✨ Features
 
-🔹 **Add New PyVenger Profiles**: Add heroes with attributes such as name, superpower, and mission.
-🔹 **List All PyVengers**: Display all current members of the PyVengers team.
-🔹 **Search PyVengers by Superpower**: Easily find heroes with specific abilities.
+- **Add New PyVenger Profiles**: Add heroes with attributes such as name, superpower, and mission.
+- **List All PyVengers**: Display all current members of the PyVengers team.
+- **Search PyVengers by Superpower**: Easily find heroes with specific abilities.
 
 💡 Example PyVenger Profile:
 ```json
